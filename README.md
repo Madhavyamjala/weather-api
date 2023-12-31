@@ -31,7 +31,7 @@ Weather API is a web application that utilizes the Weather API from RapidAPI to 
   This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Live Demo
-  Explore the live demo here.
+  Explore the live demo https://madhavyamjala.github.io/weather-api/
 
 ## Contact
   For any questions or inquiries, please contact yamjalamadhav@gmail.com.
